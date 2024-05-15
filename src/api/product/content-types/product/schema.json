@@ -30,9 +30,6 @@
     "price": {
       "type": "integer"
     },
-    "description": {
-      "type": "text"
-    },
     "category": {
       "type": "relation",
       "relation": "oneToOne",
